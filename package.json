@@ -1,5 +1,8 @@
 {
-  "version": "0.1.0",
+  "name": "use-pwa-install",
+  "repository": "https://github.com/qvil/use-pwa-install.git",
+  "author": "Taesu Hyeon <email@qvil.dev>",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -33,8 +36,6 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "use-pwa-install",
-  "author": "Taesu Hyeon",
   "module": "dist/use-pwa-install.esm.js",
   "size-limit": [
     {
@@ -57,5 +58,12 @@
     "tsdx": "^0.14.1",
     "tslib": "^2.4.0",
     "typescript": "^4.7.4"
-  }
+  },
+  "keywords": [
+    "React",
+    "Hook",
+    "Typescript",
+    "TS",
+    "use-pwa-install"
+  ]
 }
