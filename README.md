@@ -1,5 +1,7 @@
 # use-pwa-install
 
+[![CI](https://github.com/qvil/use-pwa-install/actions/workflows/main.yml/badge.svg)](https://github.com/qvil/use-pwa-install/actions/workflows/main.yml)
+
 React hook for PWA(Progressive Web App) install
 
 ## Demo
